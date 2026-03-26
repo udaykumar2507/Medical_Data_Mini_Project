@@ -1,4 +1,4 @@
-# Medical Data Pipeline (Medallion Architecture)
+# Medical Data Pipeline 
 
 ## 1. Overview
 This project implements an end-to-end data pipeline for medical_data using the Medallion Architecture (Bronze, Silver, Gold) in Databricks. The pipeline ingests raw data from AWS S3, processes it through multiple transformation layers, and generates business KPIs.
